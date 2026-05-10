@@ -119,7 +119,8 @@ python3 log_analysis.py --input access.log --auth auth.log --output report.md
 
 ### Screenshot — Attack detection + anomaly detector output
 
-[IMAGEN 3]
+<img width="635" height="513" alt="image" src="https://github.com/user-attachments/assets/7a167830-76d8-4415-92a9-e5cfff329043" />
+
 
 ### Design choices
 
