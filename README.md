@@ -1,5 +1,5 @@
 # Security Automation Lab — Submission
-
+# Authors: Juan Mejia - Samuel Albarracin 
 ## Python version and dependencies
 
 Tested on: **Python 3.11** (Kali Linux 2024.x)
