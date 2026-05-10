@@ -78,7 +78,8 @@ python3 parse_scan.py --input scan.xml --output hosts.json
 
 ### Screenshot — hosts.json output
 
-[IMAGEN 2]
+<img width="632" height="500" alt="image" src="https://github.com/user-attachments/assets/82ebce50-2542-4e61-adac-374077202676" />
+
 
 ### Design choices
 
