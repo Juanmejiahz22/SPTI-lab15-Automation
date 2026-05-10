@@ -149,7 +149,8 @@ sudo python3 recon.py scanme.nmap.org --mode domain --output ./my_recon --verbos
 
 ### Screenshot — recon.py full run (domain + IP mode)
 
-[IMAGEN 4]
+<img width="647" height="509" alt="image" src="https://github.com/user-attachments/assets/0b680eda-b945-4179-b0b4-283b61305de9" />
+
 
 ### Design choices
 
