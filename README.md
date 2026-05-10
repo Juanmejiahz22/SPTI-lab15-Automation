@@ -51,7 +51,8 @@ python3 scanner.py 127.0.0.1 --rate 500
 
 ### Screenshot — Sequential baseline vs asyncio results
 
-[IMAGEN 1]
+<img width="495" height="402" alt="image" src="https://github.com/user-attachments/assets/18e76679-dab6-468a-9c25-4da89f993adc" />
+
 
 ### Design choices
 
