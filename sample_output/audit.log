@@ -1,0 +1,15 @@
+[2026-05-09T21:39:41] ACTION: recon.py started: target=45.33.32.156 mode=ip
+[2026-05-09T21:39:41] RESULT: init
+
+[2026-05-09T21:39:57] ACTION: nmap -sV --open --top-ports 100 45.33.32.156
+[2026-05-09T21:39:57] RESULT: ok
+
+[2026-05-09T21:40:04] ACTION: dig -x 45.33.32.156
+[2026-05-09T21:40:04] RESULT: ok
+
+[2026-05-09T21:40:04] ACTION: whois 45.33.32.156
+[2026-05-09T21:40:04] RESULT: ok
+
+[2026-05-09T21:40:04] ACTION: recon.py finished
+[2026-05-09T21:40:04] RESULT: output_dir=./sample_output
+

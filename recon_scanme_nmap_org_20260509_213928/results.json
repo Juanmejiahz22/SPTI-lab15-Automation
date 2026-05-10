@@ -1,0 +1,22 @@
+{
+  "target": "scanme.nmap.org",
+  "mode": "domain",
+  "timestamp": "20260509_213928",
+  "results": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiry_date": null,
+      "organization": null
+    },
+    "dns": {
+      "A": [
+        "45.33.32.156"
+      ],
+      "MX": [],
+      "NS": [],
+      "TXT": []
+    },
+    "headers": {}
+  }
+}

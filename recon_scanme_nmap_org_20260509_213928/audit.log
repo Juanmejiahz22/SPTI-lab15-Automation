@@ -1,0 +1,24 @@
+[2026-05-09T21:39:28] ACTION: recon.py started: target=scanme.nmap.org mode=domain
+[2026-05-09T21:39:28] RESULT: init
+
+[2026-05-09T21:39:30] ACTION: whois scanme.nmap.org
+[2026-05-09T21:39:30] RESULT: ok
+
+[2026-05-09T21:39:30] ACTION: dig A scanme.nmap.org
+[2026-05-09T21:39:30] RESULT: ok
+
+[2026-05-09T21:39:30] ACTION: dig MX scanme.nmap.org
+[2026-05-09T21:39:30] RESULT: ok
+
+[2026-05-09T21:39:30] ACTION: dig NS scanme.nmap.org
+[2026-05-09T21:39:30] RESULT: ok
+
+[2026-05-09T21:39:30] ACTION: dig TXT scanme.nmap.org
+[2026-05-09T21:39:30] RESULT: ok
+
+[2026-05-09T21:39:40] ACTION: curl -I scanme.nmap.org
+[2026-05-09T21:39:40] RESULT: ok
+
+[2026-05-09T21:39:40] ACTION: recon.py finished
+[2026-05-09T21:39:40] RESULT: output_dir=./recon_scanme_nmap_org_20260509_213928
+

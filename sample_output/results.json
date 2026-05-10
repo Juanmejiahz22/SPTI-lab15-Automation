@@ -1,0 +1,27 @@
+{
+  "target": "45.33.32.156",
+  "mode": "ip",
+  "timestamp": "20260509_213941",
+  "results": {
+    "open_ports": [
+      {
+        "port": 22,
+        "service": "tcpwrapped",
+        "version": ""
+      },
+      {
+        "port": 80,
+        "service": "tcpwrapped",
+        "version": ""
+      }
+    ],
+    "reverse_dns": [
+      ";; communications error to 192.168.64.2#53: timed out",
+      "scanme.nmap.org."
+    ],
+    "whois": {
+      "organization": "Akamai Technologies, Inc.",
+      "country": "US"
+    }
+  }
+}
